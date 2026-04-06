@@ -4,7 +4,6 @@
 
 - 🎓 부산대학교 정보컴퓨터공학전공 졸업 (2025.08)
 - 💻 삼성청년SW·AI아카데미(SSAFY) 14기 Java 트랙
-- 🏆 SSAFY 성적 우수상 · 프로젝트 최우수상 · 우수상
 - 📍 Busan, Korea
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj010105)](https://solved.ac/kmj010105/)
@@ -56,6 +55,23 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🏆 Awards
+
+| 수상 내역 | 수여 기관 | 날짜 |
+|---|---|---|
+| 2학기 프로젝트 우수상 | 삼성청년SW·AI아카데미 (SSAFY) | 2026.04 |
+| 1학기 프로젝트 최우수상 | 삼성청년SW·AI아카데미 (SSAFY) | 2025.12 |
+| 1학기 성적우수상 | 삼성청년SW·AI아카데미 (SSAFY) | 2025.12 |
+
+---
+
+## 📜 Certifications
+
+- **SQL 개발자 (SQLD)** - 한국데이터산업진흥원 (2026.03)
+- **TOEIC 725** (2025.05)
 
 ---
 
