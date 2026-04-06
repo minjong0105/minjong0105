@@ -77,6 +77,8 @@
 
 ## 📬 Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:minjong010105@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kmj010105@naver.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjong0105)
+| | |
+|---|---|
+| [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:minjong010105@gmail.com) | minjong010105@gmail.com |
+| [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kmj010105@naver.com) | kmj010105@naver.com |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjong0105) | [github.com/minjong0105](https://github.com/minjong0105) |
